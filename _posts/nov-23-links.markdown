@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Monthly Links"
-date:   2023-10-31 11:28:42 -0500
+title:  "Monthly Links November 2023"
+date:   2023-11-28 11:28:42 -0500
 categories: update
 ---
 Here are some of our fav links for the month:
