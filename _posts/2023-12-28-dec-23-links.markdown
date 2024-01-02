@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Monthly Links December 2023"
+date:   2023-12-28 11:28:42 -0500
+categories: update
+---
+
+- Explore Terraform and AWS Fargate synergy in this [blog post](https://www.architect.io/blog/2021-03-30/create-and-manage-an-aws-ecs-cluster-with-terraform), navigating project dependencies, defining ECS resources, modifying AWS assets, and discovering how Architect simplifies deploying applications across AWS and beyond.
+- Explore the intricacies of [Release Management](https://www.enov8.com/blog/release-management-explained-in-depth) with Enov8. From essential practices to multi-project coordination, this blog post offers valuable insights for modern software organizations.
+- Demystify the world of Backconnect Proxies with this [guide](https://www.proxyrack.com/blog/what-are-backconnect-proxies). Explore the reasons for using them in data scraping, understand their diverse uses, and learn how to secure reliable Backconnect Proxies. Navigate the landscape of proxy service providers and make informed choices. This [guide](https://www.proxyrack.com/blog/what-are-backconnect-proxies) is your gateway to understanding Backconnect Proxies for efficient data scraping.
+- [Discover](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) Tricentis qTest, a game-changer in test case management. From simplifying administration to best-in-class Jira integration, qTest streamlines approval workflows, making test management for enterprise DevOps a breeze.
+
+[Find more great tech links at our Glitch digest site](https://hit-subscribe-playpen.glitch.me/)
