@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Monthly Links January 2024"
+date:   2024-01-26 11:28:42 -0500
+categories: update
+---
+
+Here are some of our fav links for the month:
+- Dive into the intricacies of [cutover planning with this step-by-step guide](https://www.enov8.com/blog/mastering-the-art-of-cutover-planning-a-step-by-step-guide). From pre-cutover preparations to post-cutover activities, master the art of seamless project implementation.
+- Master Selenium locators with this [tutorial](https://proxyrack.com/blog/selenium-locators/)! From prerequisites to in-depth examination, learn about various locators like ID, CSS, and XPath. Enhance your skills in choosing the right locator for robust test automation.
+- Explore the dynamic landscape of Continuous Testing with this [guide](https://www.tricentis.com/learn/what-is-continuous-testing). From key definitions to overcoming challenges, dive into the intersection of Agile, DevOps, and AI. Uncover practical insights and resources to elevate your testing practices.
+- Dive into Android development nuances with a detailed comparison of emulators and real device testing. Discover features, benefits, and crucial considerations in this insightful [guide](https://www.tricentis.com/learn/android-emulator-vs-real-device-testing-key-differences).
+- This detailed [guide](https://www.tricentis.com/learn/android-testing-an-easy-introduction-with-examples) will help you get started with Android testing. Learn about the various methods of testing, from unit to end-to-end, and how to improve the quality of your app. Must-read for Android devs!
+
+For more useful tech links, check out our [Netlify site](https://hit-subscribe.netlify.app/posts/jan-24)
