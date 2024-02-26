@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Monthly Links February 2024"
+date:   2024-02-26 11:28:42 -0500
+categories: update
+---
+
+Here are some of our fav links for the month:
+- [Unlock innovation with the Tricentis SAP partnership.](https://www.tricentis.com/sap) Elevate SAP testing efficiency, ensure data integrity, and accelerate projects with enterprise test automation. Stay ahead with continuous testing and seamless adaptation to SAP updates.
+- Craft an effective Test Data Management strategy with this [guide](https://www.enov8.com/blog/test-data-management-strategy-design-guide-best-practices). Learn to tackle challenges, ensure data integrity, and boost IT delivery while complying with regulations. Enhance quality with automated management and open-source tools.
+- [Explore the power of selectors in Playwright for precise web automation.](https://proxyrack.com/blog/playwright-selectors/) This guide elucidates various selector types, empowering efficient element targeting and automation strategies.
+
+For more useful tech links, check out our [Netlify site](https://hit-subscribe.netlify.app/posts/feb-24)
