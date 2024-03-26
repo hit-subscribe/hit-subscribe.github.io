@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Monthly Links March 2024"
+date:   2024-03-26 11:28:42 -0500
+categories: update
+---
+
+Here are some of our fav links for the month:
+
+- The idea that you need different production environments at different stages of growth is one of those "obvious once someone tells you" ideas.  This article about [different production environment sizes](https://www.architect.io/blog/2022-03-21/production-environment-at-different-sizes) is an interesting one.
+- Thinking you might need to start an SRE team?  Enov8 has a post on [how to hire one](https://www.enov8.com/blog/hiring-an-sre-team) to get going.
+- For any organizations doing significant line of business automation with commercial software, testing can be a serious challenge.  If you're using Salesforce, check out this guide to [Salesforce UAT](https://www.testim.io/blog/salesforce-uat-guide)
+
+[Check out more of our fav links here](https://hit-subscribe.mystrikingly.com/blog/hit-subscribe-digest-march-2024)
