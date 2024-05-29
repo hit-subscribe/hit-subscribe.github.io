@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Monthly Links Apr 2024"
+date:   2024-04-26 11:28:42 -0500
+categories: update
+---
+
+Here are some of our fav links for the month:
+
+- This post is your guide to [data compliance](https://www.enov8.com/blog/data-compliance-a-detailed-guide-for-it-leaders), tailored specifically for IT leaders. First, it breaks down what [data compliance](https://www.enov8.com/blog/data-compliance-a-detailed-guide-for-it-leaders) is all about–basically, it's making sure your company follows all the rules and regulations when it comes to handling sensitive info. Whether it's implementing robust encryption measures or conducting regular audits, being proactive can save you a world of headaches down the line. So if you're an IT leader looking to level up your [data compliance](https://www.enov8.com/blog/data-compliance-a-detailed-guide-for-it-leaders) game, this guide is your ticket to staying on top of your digital game.
+  
+[Check out more of our fav links here](https://hit-subscribe.netlify.app/posts/may-24)
