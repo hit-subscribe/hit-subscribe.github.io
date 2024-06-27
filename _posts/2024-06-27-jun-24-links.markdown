@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Monthly Links June 2024 + Moving"
+date:   2024-05-26 11:28:42 -0500
+categories: update
+---
+
+# Moving
+We are consolidating our digests/links of the month, so if you want to keep following our monthly link picks, head to [our new site](https://hitsubscribe.neocities.org/). We'll repurpose this site for other projects.
+
+Here's one last set of link picks
+
+- This post goes over different [Agile methods](https://www.testim.io/blog/agile-team-structure-how-to-design-one-for-your-enterprise) like Scrum and Kanban, saying it’s key to pick one that fits your company’s size and goals. It also highlights the need for clear roles, regular check-ins to see what’s working (and what’s not), and always being ready to tweak things for the better. It pushes for training and coaching too, to help teams really get into the Agile mindset. Overall, the goal is to create teams that can handle change and keep delivering value, no matter how big or fast-moving the company gets.
+- This post provides a practical guide for developers on [managing environment variables in React applications](https://www.architect.io/blog/2022-08-16/react-environment-variables-developers-guide) in a casual, accessible manner. It underscores the significance of environment variables in configuring apps across different environments like development, testing, and production. The guide details methods for handling environment variables in React projects, emphasizing the use of .env files to store and manage these configurations securely. By following the practices in this guide, developers can streamline the configuration process and maintain consistency across different stages of application development and deployment.
+- Web [stress testing](https://www.tricentis.com/learn/web-stress-testing-tool) ensures software can handle extreme user loads without crashing. It's crucial for apps that might experience sudden traffic spikes, like ticketing systems. Tools like JMeter, BlazeMeter, Gatling, and NeoLoad help simulate these conditions to find performance bottlenecks and plan resource allocation. Choosing the right tool is essential for efficient [stress testing](https://www.tricentis.com/learn/web-stress-testing-tool). Key features include ease of use, scalability, integration capabilities, and detailed reporting. Tools like NeoLoad offer real-time diagnostics and support a variety of web and mobile technologies, making them ideal for thorough performance evaluations.
+- DataOpsZone's post offers a practical guide on performing a [data quality audit](https://www.dataopszone.com/how-to-perform-data-quality-audit). It starts by emphasizing the importance of data quality in ensuring accurate and reliable decision-making. The guide outlines step-by-step instructions on how to conduct a [data quality audit](https://www.dataopszone.com/how-to-perform-data-quality-audit), beginning with defining audit objectives and scope, followed by assessing data completeness, accuracy, consistency, and timeliness. The post provides valuable insights for data professionals looking to enhance their organization's data quality management processes through systematic audits and effective use of tools and methodologies.
